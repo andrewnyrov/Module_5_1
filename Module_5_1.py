@@ -1,22 +1,3 @@
-# class Human:
-#     def __init__(self, name, age):
-#         self.name = name
-#         self.age = age
-#
-#     def say_info(self):
-#         print(f'Привет, меня зовут {self.name}, мне {self.age}')
-#
-#     def birthday(self):
-#         self.age += 1
-#         print(f'Привет, у меня сегодня день рождения. Мне теперь {self.age}')
-#
-#
-# den = Human('Денис', 22)
-# max = Human('Макс', 23)
-# den.say_info()
-# max.say_info()
-# den.birthday()
-# max.birthday()
 
 """
 Задача "Developer - не только разработчик":
